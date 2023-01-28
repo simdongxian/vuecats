@@ -1,0 +1,27 @@
+{
+  "name": "vue-cats",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@vue/cli-plugin-babel": "^5.0.8",
+    "axios": "^1.2.4",
+    "babel-jest": "^27.5.1",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "@vue/babel-preset-app": "^5.0.8",
+    "@vue/cli-plugin-unit-jest": "^5.0.8",
+    "@vue/test-utils": "^2.2.8",
+    "@vue/vue3-jest": "^27.0.0",
+    "jest": "^27.5.1",
+    "vite": "^4.0.0"
+  }
+}
